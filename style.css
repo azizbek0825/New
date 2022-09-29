@@ -1,0 +1,298 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.nav__content{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.left{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.li_1{
+    font-size: 22px;
+    color: #FFAE2B;
+    line-height: 28px;
+}
+
+nav{
+    background: black;
+    padding: 25px 0;
+}
+
+.li_2{
+    font-size: 11px;
+    color: #FFAE2B;
+}
+
+.li_3{
+    font-size: 11px;
+    line-height: 24px;
+}
+
+.nav__button{
+    padding: 15px 25px;
+    color: #FFAE2B;
+    background: none;
+    border: 1px solid #FFAE2B;
+}
+
+.header__content{
+    background: url(hola.png) no-repeat center center/cover;
+    padding: 140px 285px;
+    text-align: center;
+    height: 50vh;
+}
+
+.li_4{
+    margin-left: 250px;
+    width: 289px;
+    font-size: 12px;
+    line-height: 22px;
+    color: #FFAE2B;
+    text-transform: uppercase;
+
+}
+
+.h1_1{
+    width: 869px;
+    font-size: 70px;
+    line-height: 80px;
+    text-align: center;
+    color: white;
+}
+
+.header__button{
+    padding: 15px 24px;
+    background: #FFAE2B;
+}
+
+.h6_1{
+    font-size: 12px;
+    line-height: 22px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.header__center1{
+    padding: 120px 0;
+    background: #181511;
+    color: white;
+}
+
+.h1_2{
+    font-size: 60px;
+    line-height: 70px;
+    color: #FFAE2B;
+    text-align: center;
+}
+
+.header__center{
+    text-transform: uppercase;
+    padding: 60px 0;
+}
+
+.li_5{
+    font-size: 13px;
+    line-height: 23px;
+    text-align: center;
+}
+
+.opshi__img1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img1{
+    border: 1px solid #4B4136;
+    padding: 10px 10px;
+}
+
+.opshi__img2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.opshi__img3{
+    display: flex;
+    justify-content: space-between;
+}
+
+.opshi__img4{
+    display: flex;
+    justify-content: space-between;
+}
+
+.opshi__img5{
+    display: flex;
+    justify-content: space-between;
+}
+
+.opshi__img6{
+    display: flex;
+    justify-content: space-between;
+}
+
+.opshi__img7{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img_header5{
+    width: 1349px;
+}
+
+.main__content{
+    padding: 120px 0;
+    background: #181511;
+    color: white;
+}
+
+.main__button1{
+    display: flex;
+    justify-content: space-between;
+    padding: 60px 0;
+}
+
+.img_2{
+    border: 1px solid #4B4136;
+    padding: 60px 80px;
+}
+
+.h3_3{
+    font-size: 29px;
+    line-height: 40px;
+    color: #FFAE2B;
+}
+
+.h6_2{
+    width: 200px;
+    font-size: 15px;
+    line-height: 26px;
+    color:  #4B4136;
+}
+
+.instagram{
+    text-align: center;
+}
+
+.main__button2{
+    padding: 120px 0;
+    background: #181511;
+}
+
+.h1_3{
+    width: 517px;
+    font-size: 60px;
+    line-height: 70px;
+    text-align: center;
+    color: #FFAE2B;
+    margin: 0 auto;
+}
+.lorem2{
+    width: 578px;
+    font-size: 12px;
+    line-height: 28px;
+    text-align: center;
+    color: #4B4136;
+    margin: 0 auto;
+}
+
+.opshi_insta{
+    padding: 21px 0;
+    background: #181511;
+}
+
+.instagram2{
+    display: flex;
+}
+
+.torburche{
+    background: none;
+    border: 1px solid #4B4136;
+    width: 420px;
+    height: 60px;
+    margin: 0 auto;
+}
+
+.torburche2{
+    width: 420px;
+    height: 60px;
+    margin: 0 auto;
+    background: #FFAE2B;
+}
+
+.h6_3{
+    width: 308px;
+    font-size: 14px;
+    line-height: 20px;
+    color: #4B4136;
+    margin: 0 auto;
+}
+
+.ikonkalar{
+    width: 240px;
+    display: flex;
+    gap: 10px;
+    margin: 0 auto;
+}
+
+.img5{
+    padding: 15px 15px;
+    border: 1px solid #4B4136;
+}
+
+.img6{
+    padding: 16px 20px;
+    border: 1px solid #4B4136;
+}
+
+.border{
+    border: 1px solid #4B4136;
+}
+
+.main__button4{
+    padding: 25px 0;
+    background: #181511;
+}
+
+.h6_4{
+    font-size: 12px;
+    line-height: 22px;
+    align-items: center;
+    color: #4B4136;
+}
+
+.h6_5{
+    font-size: 12px;
+    line-height: 30px;
+    color: #FFAE2B;
+}
+
+.birbalo{
+    display: flex;
+}
+
+.main__button3{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+}
+
+.birbalo2{
+    display: flex;
+    gap: 10px;
+}
+
